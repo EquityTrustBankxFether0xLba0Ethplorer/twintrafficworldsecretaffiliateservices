@@ -1,4 +1,16 @@
-.arc-env
-.deno_dir
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
 .DS_Store
-node_modules
+
+# Maven
+log/
+target/
+
+# Eclipse
+**/*.project
+**/*.classpath
+**/*.settings
